@@ -18,7 +18,7 @@ oluşturulabilmektedir.
   panonuza kopyalanacaktır.
 * Benzer şekilde Whatsapp'ta mesajlaşmak veya paylaşmak istediğiniz numarayı
   seçin ya da kopyalayın ve NVDA+Alt+l tuşlarına basın.
-* Dönüştürülen bağlantıyı tarayıcınızda açmak isterseniz NVDA+Alt+Shift+l
+* dönüştürülen bağlantıyı tarayıcınızda açmak isterseniz NVDA+Alt+Shift+l
   tuşlarına basın.
 
 ## Neden doğrudan bağlantı?
@@ -48,10 +48,10 @@ Aşağıda isimlerini verdiğim arkadaşlarıma çok teşekkür ederim. Onlar
 olmasaydı ben bu eklentiyi yapamazdım:
 
 * Eklentiyi test ettiği, test etmem için bana malzeme sunduğu, gözlem
-  yaptığı ve genel olarak eklenti fikrini bana sunduğu için Qais Alrefai'ye, 
-* eklentiyi Fransızcaya çevirdiği, dil düzenlemesi yaptığı ve eklentiyi test
+  yaptığı ve genel olarak eklenti fikrini bana sunduğu için Qais Alrefai'ye,
+* Eklentiyi Fransızcaya çevirdiği, dil düzenlemesi yaptığı ve eklentiyi test
   ettiği için Marina Amir'e, 
-* eklentiyi Arapçaya çevirdiği için Riad Assoum'a 
+* Eklentiyi Arapçaya çevirdiği için Riad Assoum'a 
 * ve tüm test edenlere teşekkür ederim.
 
 [[!tag dev stable]]
